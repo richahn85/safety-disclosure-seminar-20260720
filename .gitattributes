@@ -1,0 +1,13 @@
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.pdf binary
+
+*.html text eol=lf
+*.css text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
