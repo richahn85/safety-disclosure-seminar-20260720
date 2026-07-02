@@ -9,3 +9,5 @@ Update flow:
 1. Edit `index.html`, `styles.css`, or files in `assets/`.
 2. Commit and push to `main`.
 3. Netlify publishes the latest version automatically after the repository is connected.
+
+Netlify continuous deployment is connected to the `main` branch.
